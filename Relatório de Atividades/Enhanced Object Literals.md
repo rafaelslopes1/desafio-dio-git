@@ -25,5 +25,4 @@ const objeto3 = {
         return a+b;
     }
 }
-
 ```
